@@ -1,6 +1,6 @@
 ## Build
 
  ```
-cmake .
-make
+user@user: cmake .
+user@user: make
 ```
